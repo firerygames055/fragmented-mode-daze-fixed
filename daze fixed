@@ -96,7 +96,7 @@ local function spawnShocker()
 		Title = Stay tuned",
 		Desc = "Wake up!",
 		Reason = "Encounter dazee.",
-		Image = "rbxassetid:/84975320208120"
+		Image = "rbxassetid://84975320208120"
 	})
 end
 
