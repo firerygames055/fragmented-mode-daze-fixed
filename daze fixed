@@ -93,10 +93,10 @@ local function spawnShocker()
 	-- Achievement
 	local achievementGiver = loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Utilities/main/Doors/Custom%20Achievements/Source.lua"))()
 	achievementGiver({
-		Title = Stay tuned",
+		Title = "Stay tuned",
 		Desc = "Wake up!",
-		Reason = "Encounter dazee.",
-		Image = "rbxassetid://84975320208120"
+		Reason = "Encounter Daze",
+		Image = "rbxassetid://108703252582197"
 	})
 end
 
